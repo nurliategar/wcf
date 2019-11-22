@@ -11,7 +11,7 @@ namespace Distro_Client_Web
 {
 
 
-    public partial class _Default
+    public partial class HnM
     {
     }
 }

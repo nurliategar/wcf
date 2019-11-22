@@ -113,8 +113,7 @@ input,
 optgroup,
 select,
 textarea {
-  margin: 0;
-  font: inherit;
+  margin: 0 0 0 35px;
   color: inherit;
 }
 button {
@@ -1617,6 +1616,8 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
+    top: 0px;
+    left: 0px;
 }
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
   float: left;
@@ -3437,6 +3438,7 @@ fieldset[disabled] .btn-link:focus {
   font-size: 18px;
   line-height: 1.3333333;
   border-radius: 6px;
+    height: 20px;
 }
 .btn-sm,
 .btn-group-sm > .btn {
@@ -4970,6 +4972,7 @@ a.badge:focus {
   margin-bottom: 15px;
   font-size: 21px;
   font-weight: 200;
+    height: 24px;
 }
 .jumbotron > hr {
   border-top-color: #d5d5d5;
