@@ -5,15 +5,15 @@
         <h1>Registrasi Distro</h1>
         <p class="lead">Lengkapi form registrasi di bawah ini untuk membuat akun.</p>
         <p class="lead">Nama&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :
-            <asp:TextBox ID="TextBox3" runat="server" Width="237px"></asp:TextBox>
+            <asp:TextBox ID="tbRegisNama" runat="server" Width="237px"></asp:TextBox>
         </p>
         <p class="lead">Username :
-            <asp:TextBox ID="TextBox1" runat="server" Width="240px"></asp:TextBox>
+            <asp:TextBox ID="tbRegisUsername" runat="server" Width="240px"></asp:TextBox>
         </p>
-        <p class="lead">Password :&nbsp;<asp:TextBox ID="TextBox2" runat="server" Width="241px"></asp:TextBox>
+        <p class="lead">Password :&nbsp;<asp:TextBox ID="tbRegisPassword" runat="server" Width="241px"></asp:TextBox>
         </p>
         <p class="lead">
-            <asp:Button ID="Button1" runat="server" Text="Registrasi" Width="206px" />
+            <asp:Button ID="Button1" runat="server" Text="Registrasi" Width="206px" OnClick="Button1_Click" />
         </p>
     </div>
 </asp:Content>

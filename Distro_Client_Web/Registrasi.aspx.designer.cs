@@ -13,31 +13,31 @@ namespace Distro_Client_Web {
     public partial class WebForm1 {
         
         /// <summary>
-        /// TextBox3 control.
+        /// tbRegisNama control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox3;
+        protected global::System.Web.UI.WebControls.TextBox tbRegisNama;
         
         /// <summary>
-        /// TextBox1 control.
+        /// tbRegisUsername control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox tbRegisUsername;
         
         /// <summary>
-        /// TextBox2 control.
+        /// tbRegisPassword control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox2;
+        protected global::System.Web.UI.WebControls.TextBox tbRegisPassword;
         
         /// <summary>
         /// Button1 control.
