@@ -10,7 +10,16 @@
 namespace Distro_Client_Web {
     
     
-    public partial class WebForm1 {
+    public partial class RegisPage {
+        
+        /// <summary>
+        /// form1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
         /// tbRegisNama control.
@@ -22,13 +31,13 @@ namespace Distro_Client_Web {
         protected global::System.Web.UI.WebControls.TextBox tbRegisNama;
         
         /// <summary>
-        /// tbRegisUsername control.
+        /// tbRegisAlamat control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tbRegisUsername;
+        protected global::System.Web.UI.WebControls.TextBox tbRegisAlamat;
         
         /// <summary>
         /// tbRegisPassword control.
@@ -38,6 +47,15 @@ namespace Distro_Client_Web {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox tbRegisPassword;
+        
+        /// <summary>
+        /// tbRegisHP control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox tbRegisHP;
         
         /// <summary>
         /// Button1 control.

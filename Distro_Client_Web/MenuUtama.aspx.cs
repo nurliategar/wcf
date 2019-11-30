@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace Distro_Client_Web
 {
-    public partial class _Default : Page
+    public partial class MenuUtama : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
